@@ -1,5 +1,5 @@
 <!-- Banner do topo -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff6b9d,100:c44dff&height=110&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?section=header&type=rect&color=0:ff6b9d,100:c44dff&height=110" width="100%"/>
 
 <div align="center">
 
@@ -63,8 +63,12 @@ const emilly = {
 ### 📈 Estatísticas
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=emillyvolvr&show_icons=true&theme=radical&hide_border=true&bg_color=1a1b27" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emillyvolvr&layout=compact&theme=radical&hide_border=true&bg_color=1a1b27" />
+  <img src="https://streak-stats.demolab.com?user=emillyvolvr&theme=radical&hide_border=true&background=1a1b27&ring=FF6B9D&fire=C44DFF&currStreakLabel=FF6B9D&locale=pt_BR" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=emillyvolvr&theme=radical" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=emillyvolvr&theme=radical" />
 </p>
 
 ---
@@ -80,6 +84,4 @@ const emilly = {
 </div>
 
 <!-- Onda do rodapé -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c44dff,100:ff6b9d&height=100&section=footer" width="100%"/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c44dff,100:ff6b9d&height=100&section=footer" width="100%"/>render.vercel.app/api?type=waving&color=0:c44dff,100:ff6b9d&height=100&section=footer" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:c44dff,100:ff6b9d&height=100" width="100%"/>
