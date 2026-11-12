@@ -80,5 +80,6 @@ const emilly = {
 </div>
 
 <!-- Onda do rodapé -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c44dff,100:ff6b9d&height=100&section=footer" width="100%"/>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:c44dff,100:ff6b9d&height=100&section=footer" width="100%"/>render.vercel.app/api?type=waving&color=0:c44dff,100:ff6b9d&height=100&section=footer" width="100%"/>
 
