@@ -4,7 +4,7 @@
 <div align="center">
 
 <!-- Nome -->
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=44&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=600&height=80&lines=Emilly+do+Vale" alt="Emilly do Vale" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=44&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=600&height=80&lines=Emilly+Oliveira" alt="Emilly Oliveira" />
 
 <!-- Texto digitando sozinho -->
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&pause=1000&color=FF6B9D&center=true&vCenter=true&width=600&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Banco+de+Dados+%E2%80%A2+Front-end+%E2%80%A2+UI%2FUX+Design;Aberta+a+novas+oportunidades+e+experi%C3%AAncias" alt="Typing SVG" />
@@ -52,7 +52,9 @@ const emilly = {
 
 | Projeto | Descrição | Minha atuação |
 |:--|:--|:--|
-| 🧳 **Rei das Malas** | Aplicação web para uma loja de malas e acessórios | Estilização em CSS e design da interface |
+| 🧳 **[Rei das Malas](https://github.com/nycolleairess-prog/Rei-das-Malas)** | Aplicação web para uma loja de malas e acessórios | Estilização em CSS e design da interface |
+| 💻 **[Projeto Integrador Front-end](https://github.com/emillyvolvr/projeto-integrador-frontend-EMILLY)** | Projeto integrador da faculdade *(em andamento)* | Desenvolvimento front-end |
+| ⚙️ **[Fábrica de Software UBTech](https://github.com/emillyvolvr/wsBackendFabricaDeSoftware26.2)** | Atividades de back-end na Fábrica de Software do Unipê | Desenvolvimento back-end |
 | 🌵 **Cangaço: Destinos do Sertão** | RPG em C inspirado na cultura nordestina | Narrativa, diálogos e missões |
 | 🗃️ **Sistema de Pedidos** | Banco de dados para gestão de clientes, pedidos e produtos | Modelagem e implementação em SQL |
 
@@ -61,8 +63,8 @@ const emilly = {
 ### 📈 Estatísticas
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=emillyvoliveira81&show_icons=true&theme=radical&hide_border=true&bg_color=1a1b27" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emillyvoliveira81&layout=compact&theme=radical&hide_border=true&bg_color=1a1b27" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=emillyvolvr&show_icons=true&theme=radical&hide_border=true&bg_color=1a1b27" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emillyvolvr&layout=compact&theme=radical&hide_border=true&bg_color=1a1b27" />
 </p>
 
 ---
@@ -78,5 +80,5 @@ const emilly = {
 </div>
 
 <!-- Onda do rodapé -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c44dff,100:ff6b9d&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c44dff,100:ff6b9d&height=100&section=footer" width="100%"/>render.vercel.app/api?type=waving&color=0:c44dff,100:ff6b9d&height=100&section=footer" width="100%"/>
 
