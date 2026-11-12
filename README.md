@@ -1,10 +1,13 @@
 <!-- Banner do topo -->
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:ff6b9d,100:c44dff&height=180&section=header&text=Emilly%20do%20Vale&fontSize=42&fontColor=ffffff&fontAlignY=35&rotate=-5" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff6b9d,100:c44dff&height=110&section=header" width="100%"/>
 
 <div align="center">
 
+<!-- Nome -->
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=44&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=600&height=80&lines=Emilly+do+Vale" alt="Emilly do Vale" />
+
 <!-- Texto digitando sozinho -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FF6B9D&center=true&vCenter=true&width=600&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Banco+de+Dados+%E2%80%A2+Front-end+%E2%80%A2+UI%2FUX+Design;Aberta+a+novas+oportunidades+e+experi%C3%AAncias" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&pause=1000&color=FF6B9D&center=true&vCenter=true&width=600&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Banco+de+Dados+%E2%80%A2+Front-end+%E2%80%A2+UI%2FUX+Design;Aberta+a+novas+oportunidades+e+experi%C3%AAncias" alt="Typing SVG" />
 
 </div>
 
@@ -58,8 +61,8 @@ const emilly = {
 ### 📈 Estatísticas
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical&hide_border=true&bg_color=1a1b27" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical&hide_border=true&bg_color=1a1b27" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=emillyvoliveira81&show_icons=true&theme=radical&hide_border=true&bg_color=1a1b27" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emillyvoliveira81&layout=compact&theme=radical&hide_border=true&bg_color=1a1b27" />
 </p>
 
 ---
@@ -69,10 +72,11 @@ const emilly = {
 ***Transformando dados em soluções e ideias em experiências.***
 
 <!-- Troque os links pelos seus -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ff6b9d?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-c44dff?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ff6b9d?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emilly-v-oliveira-a406353b6/)
+[![Email](https://img.shields.io/badge/Email-c44dff?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emillydovale81@gmail.com)
 
 </div>
 
 <!-- Onda do rodapé -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:c44dff,100:ff6b9d&height=100&section=footer" width="100%"/>
+
