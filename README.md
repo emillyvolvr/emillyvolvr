@@ -21,15 +21,6 @@ Antes de propor uma solução, procuro entender o problema. Organizo as informa�
 
 Hoje busco novas experiências e oportunidades para aplicar o que venho aprendendo, contribuir com projetos reais e evoluir profissionalmente.
 
-```js
-const emilly = {
-  formacao: "Ciência da Computação — 2º período",
-  areasDeInteresse: ["Banco de Dados", "Desenvolvimento Front-end", "UI/UX Design"],
-  linguagens: ["SQL", "C", "C++", "Python", "JavaScript", "HTML", "CSS"],
-  abertaA: ["estágios", "projetos colaborativos", "novas experiências"],
-};
-```
-
 ---
 
 ### 🎯 Áreas de atuação
